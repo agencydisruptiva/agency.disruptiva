@@ -53,6 +53,7 @@ const EN = {
             NAME: 'Name',
             EMAIL: 'Email',
             MESSAGE: 'Message',
+            PHONE: 'Phone',
             SUBJECT: 'Subject',
             SEND: 'Submit now'
         }
@@ -116,6 +117,7 @@ const ES = {
             NAME: 'Nombre',
             EMAIL: 'Correo electrónico',
             MESSAGE: 'Mensaje',
+            PHONE: 'Telefono',
             SUBJECT: 'Asunto',
             SEND: 'Enviar ahora'
         }
