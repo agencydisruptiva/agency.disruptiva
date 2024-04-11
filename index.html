@@ -50,9 +50,8 @@
                         <div class="header-main-right header-main-right-header1">
                            <div class="header-contact d-none d-lg-inline-block">
                               <div class="irc-item">
-                                 <div class="hero-btn" onclick="changeLang()" data-animation="fadeInUp"
+                                 <div class="hero-btn" style="color:white;cursor: pointer;" onclick="changeLang()" data-animation="fadeInUp"
                                     data-delay=".7s">
-                                    Change lang
                                     <span class="currentLang"></span>
                                  </div>
                               </div>
@@ -672,7 +671,11 @@
 
       function showCurrentLang() {
          let currentLang = document.querySelector('.currentLang');
-         currentLang.innerHTML = getCurrentLang();
+         if (LANG == 'es') {
+            currentLang.innerHTML = 'ESPAÑOL';
+         } else {
+            currentLang.innerHTML = 'ENGLISH';
+         }
       }
 
       getCurrentLang()
