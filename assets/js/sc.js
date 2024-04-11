@@ -161,6 +161,7 @@ function setLang(LANG) {
     changeElement('.lang_contact_title', LANG.CONTACT.TITLE);
     document.querySelector('input[name="name"]').placeholder = LANG.CONTACT.FORM.NAME;
     document.querySelector('input[name="email"]').placeholder = LANG.CONTACT.FORM.EMAIL;
+    document.querySelector('input[name="phone"]').placeholder = LANG.CONTACT.FORM.PHONE;
     document.querySelector('input[name="subject"]').placeholder = LANG.CONTACT.FORM.SUBJECT;
     document.querySelector('textarea[name="message"]').placeholder = LANG.CONTACT.FORM.MESSAGE;
     changeElement('.lang_contact_send', LANG.CONTACT.FORM.SEND);
