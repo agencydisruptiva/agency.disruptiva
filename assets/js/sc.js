@@ -1,26 +1,26 @@
 
 const EN = {
-    TITLE: 'Disruptiva - Skyrocket your business with us!',
+    TITLE: 'Disruptiva - Elevating brands that prioritize people`s well-being',
     BOOK_NOW: 'Book Now',
     HERO: {
         HEAD: 'FROM 3 TO 7',
-        TITLE: '7-Figure Ascension in just 3 steps',
-        SUBTITLE: 'How to scale your skincare / make-up brand without depending on Facebook Ads or Influencers'
+        TITLE: 'Remarkable brands = Remarkable perfomance',
+        SUBTITLE: 'Elevating brands that prioritize people`s well-being to 7 - 8X'
     },
     ABOUT: {
         VIDEO: {
-            TITLE: 'This is how we can make your business grow',
+            TITLE: 'This is how we unlock the potential for brands that positively impact people`s lives',
             URL: 'assets/videos/main_en.mp4',
         },
-        TITLE: 'Scale your Business with Us',
+        TITLE: '+ Lives Impacted + Brands Empowered',
         DESCRIPTION: " Disruptiva isn't your typical marketing agency. We're more than just a service provider; we're your dedicated ally, fully invested in your success. That's why we tailor unique plans for each of our clients, ensuring optimal results within their desired timeframe. We're in this together, committed to achieving greatness alongside you. ",
         ITEMS: {
             1: {
-                TITLE: 'Scale your business',
+                TITLE: 'Elevate your business',
                 DESCRIPTION: 'While scaling is focused on rapid growth, prioritize long-term sustainability and profitability.'
             },
             2: {
-                TITLE: 'Growth in your market',
+                TITLE: 'Increase Market Share',
                 DESCRIPTION: 'Utilize data analytics to personalize marketing efforts and optimize sales funnels.'
             },
 
@@ -28,7 +28,7 @@ const EN = {
     },
     WE_DO: {
         TITLE: 'What We DO',
-        DESCRIPTION: 'Unlock the secrets to explosive growth with our proven formula for skyrocketing your business to seven-figure success in just three simple steps.',
+        DESCRIPTION: 'Strategically expanding brands committed to promoting people`s well-being. Scaling brands from seven to eight figures.',
         CARDS: {
             1: {
                 TITLE: '360 Growth Formula',
@@ -45,7 +45,7 @@ const EN = {
         }
     },
     UNLOCK_SECRETS: {
-        TITLE: 'Unlock the secrets to explosive growth'
+        TITLE: 'Scaling brands committed to promoting people`s well-being.'
     },
     CONTACT: {
         TITLE: 'Wanna send us a message?',
