@@ -13,7 +13,7 @@ const EN = {
             URL: 'assets/videos/main_en.mp4',
         },
         TITLE: '+ Lives Impacted + Brands Empowered',
-        DESCRIPTION: " Disruptiva isn't your typical marketing agency. We're more than just a service provider; we're your dedicated ally, fully invested in your success. That's why we tailor unique plans for each of our clients, ensuring optimal results within their desired timeframe. We're in this together, committed to achieving greatness alongside you. ",
+        DESCRIPTION: " Disruptiva isn't your typical marketing agency. We're more than just a service provider; we're partners, your dedicated ally, fully invested in your success. That's why we tailor unique plans for each of our clients, ensuring optimal results within their desired timeframe. We're in this together, committed to achieving greatness alongside you. ",
         ITEMS: {
             1: {
                 TITLE: 'Elevate your business',
